@@ -1,6 +1,5 @@
 
 import Layout from "../components/layout/Layout";
-
 import React from 'react'
 
 function financial_eduction() {

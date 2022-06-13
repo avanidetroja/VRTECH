@@ -78,6 +78,7 @@ const Contact = () => {
                                     </div>
                                 </div>
                             </div>
+                       
                             <div className="col-lg-4 col-md-12 col-sm-12">
                                 <div className="list-icons hover-up">
                                     <div className="item-icon"><span className="icon-left"><img src="/assets/imgs/page/homepage2/icon-retent.svg" alt="Agon" /></span>
