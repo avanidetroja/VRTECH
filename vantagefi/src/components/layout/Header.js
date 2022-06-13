@@ -41,6 +41,9 @@ const Header = ({ handleOpen, headerStyle }) => {
                                         <li>
                                             <Link to="/Pricing">Pricing</Link>
                                         </li>
+                                        <li>
+                                            <Link to="/Contact">Contact</Link>
+                                        </li>
                                     </ul>
                                 </nav>
                                 <div className="burger-icon burger-icon-white" onClick={handleOpen}>

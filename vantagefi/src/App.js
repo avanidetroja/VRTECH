@@ -11,10 +11,12 @@ import Membership from "./pages/membership"
 import Financial_education from './pages/Financial_eduction';
 import Opportunity from './pages/Opportunity';
 import Pricing from './pages/Pricing';
+import Contact from './pages/Contact';
 import "./assets/css/app.2afad0c.bundle.css"
 import "./assets/css/swiper-custom.css"
 import "./styles/globals.css"
 import "./styles/Home.module.css"
+
 
 function App() {
   return (
@@ -29,6 +31,8 @@ function App() {
         <Route path='/Opportunity' element={<Opportunity/>} />
 
         <Route path='/Pricing' element={<Pricing/>} />
+
+        <Route path='/Contact' element={<Contact/>} />
         </Routes>
     </BrowserRouter>
   );
