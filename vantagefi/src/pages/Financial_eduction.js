@@ -65,7 +65,7 @@ function financial_eduction() {
             <div className="row">
               <div className="col-lg-3 col-sm-12">
                 <div className="card-grid-1 bg-5 hover-up">
-                  <div className="grid-1-img"><img src="assets\imgs\page\homepage1\Picture1.jpg" alt="Agon" /></div>
+                  <div className="grid-1-img"><img src="src\assets\imgs\page\homepage1\Picture1.jpg" alt="Agon" /></div>
 
                   <p className="text-body-excerpt mt-20">2/3 of Americans are living paycheck to paycheck?
                   </p>
